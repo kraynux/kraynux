@@ -104,7 +104,7 @@ via une seule interface et bibliotheque partagé.
 
 ### Bibliothèques & utilitaires
 
-- **[omega-libs](https://github.com/kraynux/omega-libs)** – librairie Python pour les outils omega-.
+- **[omega-lib](https://github.com/kraynux/omega-lib)** – librairie Python pour les outils omega-.
 
 ---
 

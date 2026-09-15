@@ -20,10 +20,10 @@ Toutes les applications sont construite sous le principe de la **CLEAN ARCHITECT
 
 
 ### PROJETS PRINCIPAUX **OMEGA-** :
-[FIRE](https://github.com/kraynux/omega-fire) · [SCAN](https://github.com/kraynux/omega-scan) · [CHECK](https://github.com/kraynux/omega-check) · [DEEP](https://github.com/kraynux/omega-deep) · [FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz)
+[FIRE](https://github.com/kraynux/omega-fire) · [SERV](https://github.com/kraynux/omega-serv) · [SCAN](https://github.com/kraynux/omega-scan) · [CHECK](https://github.com/kraynux/omega-check) · [DEEP](https://github.com/kraynux/omega-deep) · [FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz)
 ---
 ### PROJETS **OMEGA-**   (En cours)  :
-[SERV](https://github.com/kraynux/omega-serv) · [WAF](https://github.com/kraynux/omega-waf) · [LOG](https://github.com/kraynux/omega-log) · [SUITE](https://github.com/kraynux/omega-suite)
+[WAF](https://github.com/kraynux/omega-waf) · [LOG](https://github.com/kraynux/omega-log) · [SUITE](https://github.com/kraynux/omega-suite)
 
 ---
 ### [OMEGA-FIRE](https://github.com/kraynux/omega-fire)

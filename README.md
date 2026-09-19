@@ -5,8 +5,8 @@
     </td>
     <td valign="center"><br>
       <strong>Kraynux</strong><br /><br>
-      Développeur Linux / Python / Sécurité / Reseau.<br> 
-      Je conçois des outils et applications de pilotage, gestion , scan, d’analyse de logs, d'hebergements, 
+      Cuisinier Linux / Python / Sécurité / Reseau.<br> 
+      J'elabore des outils et applications de pilotage, gestion , scan, d’analyse de logs, d'hebergements, 
       d’automatisation pour des infrastructures web fiables et défensives.<br><br>
       Stack :Linux, Arch, Python, Jinja, Shell, Bash, Lua, Html, Markdown.
       </td>

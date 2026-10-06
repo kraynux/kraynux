@@ -5,8 +5,7 @@
     </td>
     <td valign="center"><br>
       <strong>Kraynux</strong><br /><br>
-      Cuisinier Linux / Python / Sécurité / Reseau.<br> 
-      J'elabore des outils et applications de pilotage, gestion , scan, d’analyse de logs, d'hebergements, 
+      Elaboration d'outils et applications de pilotage, gestion , scan, d’analyse de logs, d'hebergements, 
       d’automatisation pour des infrastructures web fiables et défensives.<br><br>
       Stack :Linux, Arch, Python, Jinja, Shell, Bash, Lua, Html, Markdown.
       </td>
@@ -83,7 +82,7 @@ via une seule interface et bibliotheque partagé.
 - **Liens Contact :** [Mail](mailto:kraynux@proton.me) · [Formulaire](https://kraynux.snake-mackarel.ts.net/contact/)
 ---
 
-## Tous mes projets
+## Tous les projets oMEGA-
 
 ### Sécurité & scanning
 

@@ -87,6 +87,7 @@ via une seule interface et bibliotheque partagé.
 
 ### Sécurité & scanning
 
+- **[omega-suite](https://github.com/kraynux/omega-suite)**  – tous les outils de scan dans une seule interface.
 - **[omega-scan](https://github.com/kraynux/omega-scan)** – Scanner de configurations serveur.
 - **[omega-check](https://github.com/kraynux/omega-check)** – Scanner de ports et services.
 - **[omega-deep](https://github.com/kraynux/omega-deep)** – Scanner d architecture reseau.
@@ -94,14 +95,15 @@ via une seule interface et bibliotheque partagé.
 - **[omega-stress](https://github.com/kraynux/omega-stress)** – Testeur de charge pour serveur.
 - **[omega-track](https://github.com/kraynux/omega-track)** – Traceur numerique chemin et identité web.
 - **[omega-fuzz](https://github.com/kraynux/omega-fuzz)**  – Scanneur de vulnérabilité serveur.
-- **[omega-suite](https://github.com/kraynux/omega-suite)**  – tous les outils de scan dans une seule interface.
+
 
 ### Serveurs & Backends
 
 - **[omega-serv](https://github.com/kraynux/omega-serv)** – Serveur web durci avec firewall et systeme de defense intégré.
 - **[omega-fire](https://github.com/kraynux/omega-fire/)** – Gestion firewall, monitoring et logs sous Linux.
 - **[omega-log](https://github.com/kraynux/omega-log)** – Gestionnaire de logs Serveur.
-- **[omega-waf](https://github.com/kraynux/omega-waf)** – Moteur waf pour serveur.
+- **[omega-waf](https://github.com/kraynux/omega-waf)** – Moteur waf (magnet) pour serveur compatible OMEGA-SERV et LIGHTTPD
+- **[omega-jail](https://github.com/kraynux/omega-jail)** – Pack de jails Fail2ban compatible et adapté pour OMEGA-: SERV, FIRE et WAF.
 
 ### Bibliothèques & utilitaires
 

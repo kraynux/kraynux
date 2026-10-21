@@ -36,12 +36,12 @@
 
 **OMEGA-FIRE** 是一款“**LINUX FIREWALL SUITE**”TUI 应用程序，提供统一界面，用于管理 Linux 防火墙、Fail2Ban、被封禁地址、网络规则、日志和系统统计信息。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
+[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
 
-- **外部链接：** [官方页面](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [截图](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [下载](https://kraynux.snake-mackarel.ts.net/omega-fire/omega-fire.tar.gz)   
+- **外部链接：** [官方页面](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [截图](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [下载](https://kraynux.snake-mackarel.ts.net/omega-fire/)   
 - **GitHub 链接：** [项目目录](https://github.com/kraynux/omega-fire) · [所有项目](https://github.com/kraynux?tab=repositories)  
 - **联系方式：** [邮件](mailto:kraynux@proton.me) · [表单](https://kraynux.snake-mackarel.ts.net/contact/)  
 
@@ -57,9 +57,9 @@
 支持多实例、集成 WAF 与主动防御、预配置档案、反向代理、TLS、PHP、别名、重写、重定向、  
 身份验证、日志管理器（查看与自动化）、备份与恢复……一个产品即可构建完整、安全且易于管理的托管基础设施。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
 - **外部链接：** [官方页面](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [截图](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [下载](https://kraynux.snake-mackarel.ts.net/omega-serv/omega-serv.tar.gz)   
@@ -77,12 +77,12 @@
 *Omega-Scan*、*Omega-Check*、*Omega-Deep*、*Omega-Fold*、*Omega-Stress*、*Omega-Track* 和 *Omega-Fuzz*  
 整合到同一个界面和共享库中。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
-- **外部链接：** [官方页面](https://kraynux.snake-mackarel.ts.net/omega-suite/) · [下载](https://kraynux.snake-mackarel.ts.net/omega-suite/omega-suite.tar.gz)  
+- **外部链接：** [官方页面](https://kraynux.snake-mackarel.ts.net/omega-suite/) · [下载](https://kraynux.snake-mackarel.ts.net/omega-suite/)  
 - 截图 → [omega-scan](https://kraynux.snake-mackarel.ts.net/omega-scan/screenshots/) · [omega-check](https://kraynux.snake-mackarel.ts.net/omega-check/screenshots/) · [omega-deep](https://kraynux.snake-mackarel.ts.net/omega-deep/screenshots/) · [omega-fold](https://kraynux.snake-mackarel.ts.net/omega-fold/screenshots/) · [omega-track](https://kraynux.snake-mackarel.ts.net/omega-track/screenshots/) · [omega-fuzz](https://kraynux.snake-mackarel.ts.net/omega-fuzz/screenshots/) · [omega-stress](https://kraynux.snake-mackarel.ts.net/omega-stress/screenshots/)  
 - **GitHub 链接：** [项目目录](https://github.com/kraynux/omega-suite) · [所有项目](https://github.com/kraynux?tab=repositories)  
 - **联系方式：** [邮件](mailto:kraynux@proton.me) · [表单](https://kraynux.snake-mackarel.ts.net/contact/)  

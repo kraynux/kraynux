@@ -36,12 +36,12 @@ Cada proyecto sigue el [PROCESS-DEVELLOPEMENT-OMEGA](https://github.com/kraynux/
 
 **OMEGA-FIRE** es una aplicación TUI de tipo “**LINUX FIREWALL SUITE**” que proporciona una interfaz única para administrar los cortafuegos de Linux, Fail2Ban, las direcciones baneadas, las reglas de red, los registros y las estadísticas del sistema.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
+[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
 
-- **Enlaces externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [Capturas de pantalla](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [Descargar](https://kraynux.snake-mackarel.ts.net/omega-fire/omega-fire.tar.gz)   
+- **Enlaces externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [Capturas de pantalla](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [Descargar](https://kraynux.snake-mackarel.ts.net/omega-fire/)   
 - **Enlaces de GitHub:** [Carpeta del proyecto](https://github.com/kraynux/omega-fire) · [Todos los proyectos](https://github.com/kraynux?tab=repositories)  
 - **Enlaces de contacto:** [Correo](mailto:kraynux@proton.me) · [Formulario](https://kraynux.snake-mackarel.ts.net/contact/)  
 
@@ -57,12 +57,12 @@ Cada proyecto sigue el [PROCESS-DEVELLOPEMENT-OMEGA](https://github.com/kraynux/
 Multiinstancia, WAF y Defensa Activa integrados, perfiles preconfigurados, proxy inverso, TLS, PHP, alias, reescrituras, redirecciones,  
 autenticación, gestor de registros (visualización y automatización), copia de seguridad y restauración, … un único producto para una infraestructura de alojamiento completa, segura y fácil de administrar.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
-- **Enlaces externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Capturas de pantalla](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Descargar](https://kraynux.snake-mackarel.ts.net/omega-serv/omega-serv.tar.gz)   
+- **Enlaces externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Capturas de pantalla](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Descargar](https://kraynux.snake-mackarel.ts.net/omega-serv/)   
 - **Enlaces de GitHub:** [Carpeta del proyecto](https://github.com/kraynux/omega-serv) · [Todos los proyectos](https://github.com/kraynux?tab=repositories)  
 - **Enlaces de contacto:** [Correo](mailto:kraynux@proton.me) · [Formulario](https://kraynux.snake-mackarel.ts.net/contact/)  
 
@@ -77,12 +77,12 @@ autenticación, gestor de registros (visualización y automatización), copia de
 *Omega-Scan*, *Omega-Check*, *Omega-Deep*, *Omega-Fold*, *Omega-Stress*, *Omega-Track* y *Omega-Fuzz*  
 mediante una única interfaz y una biblioteca compartida.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
-- **Enlaces externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-suite/) · [Descargar](https://kraynux.snake-mackarel.ts.net/omega-suite/omega-suite.tar.gz)  
+- **Enlaces externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-suite/) · [Descargar](https://kraynux.snake-mackarel.ts.net/omega-suite/)  
 - Capturas de pantalla → [omega-scan](https://kraynux.snake-mackarel.ts.net/omega-scan/screenshots/) · [omega-check](https://kraynux.snake-mackarel.ts.net/omega-check/screenshots/) · [omega-deep](https://kraynux.snake-mackarel.ts.net/omega-deep/screenshots/) · [omega-fold](https://kraynux.snake-mackarel.ts.net/omega-fold/screenshots/) · [omega-track](https://kraynux.snake-mackarel.ts.net/omega-track/screenshots/) · [omega-fuzz](https://kraynux.snake-mackarel.ts.net/omega-fuzz/screenshots/) · [omega-stress](https://kraynux.snake-mackarel.ts.net/omega-stress/screenshots/)  
 - **Enlaces de GitHub:** [Carpeta del proyecto](https://github.com/kraynux/omega-suite) · [Todos los proyectos](https://github.com/kraynux?tab=repositories)  
 - **Enlaces de contacto:** [Correo](mailto:kraynux@proton.me) · [Formulario](https://kraynux.snake-mackarel.ts.net/contact/)  

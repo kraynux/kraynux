@@ -36,9 +36,9 @@
 
 **OMEGA-FIRE** — приложение типа “**LINUX FIREWALL SUITE**” с интерфейсом TUI, предоставляющее единый интерфейс для администрирования межсетевых экранов Linux, Fail2Ban, заблокированных адресов, сетевых правил, журналов и системной статистики.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
 - **Внешние ссылки:** [Официальная страница](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [Скриншоты](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [Скачать](https://kraynux.snake-mackarel.ts.net/omega-fire/omega-fire.tar.gz)   
@@ -57,10 +57,10 @@
 Мультиэкземплярность, встроенные WAF и активная защита, преднастроенные профили, обратный прокси, TLS, PHP, псевдонимы, перезаписи, перенаправления,  
 аутентификация, менеджер журналов (просмотр и автоматизация), резервное копирование и восстановление, … один продукт для полной, безопасной и удобной в администрировании инфраструктуры хостинга.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/) 
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/) 
+[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual) 
 
 - **Внешние ссылки:** [Официальная страница](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Скриншоты](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Скачать](https://kraynux.snake-mackarel.ts.net/omega-serv/omega-serv.tar.gz)   
 - **Ссылки GitHub:** [Папка проекта](https://github.com/kraynux/omega-serv) · [Все проекты](https://github.com/kraynux?tab=repositories)  
@@ -77,12 +77,12 @@
 *Omega-Scan*, *Omega-Check*, *Omega-Deep*, *Omega-Fold*, *Omega-Stress*, *Omega-Track* и *Omega-Fuzz*  
 через единый интерфейс и общую библиотеку.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/) 
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
-- **Внешние ссылки:** [Официальная страница](https://kraynux.snake-mackarel.ts.net/omega-suite/) · [Скачать](https://kraynux.snake-mackarel.ts.net/omega-suite/omega-suite.tar.gz)  
+- **Внешние ссылки:** [Официальная страница](https://kraynux.snake-mackarel.ts.net/omega-suite/) · [Скачать](https://kraynux.snake-mackarel.ts.net/omega-suite/)  
 - Скриншоты → [omega-scan](https://kraynux.snake-mackarel.ts.net/omega-scan/screenshots/) · [omega-check](https://kraynux.snake-mackarel.ts.net/omega-check/screenshots/) · [omega-deep](https://kraynux.snake-mackarel.ts.net/omega-deep/screenshots/) · [omega-fold](https://kraynux.snake-mackarel.ts.net/omega-fold/screenshots/) · [omega-track](https://kraynux.snake-mackarel.ts.net/omega-track/screenshots/) · [omega-fuzz](https://kraynux.snake-mackarel.ts.net/omega-fuzz/screenshots/) · [omega-stress](https://kraynux.snake-mackarel.ts.net/omega-stress/screenshots/)  
 - **Ссылки GitHub:** [Папка проекта](https://github.com/kraynux/omega-suite) · [Все проекты](https://github.com/kraynux?tab=repositories)  
 - **Контакты:** [Почта](mailto:kraynux@proton.me) · [Форма](https://kraynux.snake-mackarel.ts.net/contact/)  

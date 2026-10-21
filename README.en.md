@@ -36,9 +36,9 @@ Each project follows the [PROCESS-DEVELLOPEMENT-OMEGA](https://github.com/kraynu
 
 **OMEGA-FIRE** is a “**LINUX FIREWALL SUITE**” TUI application that provides a single interface for administering Linux firewalls, Fail2Ban, banned addresses, network rules, logs, and system statistics.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
 - **External links:** [Official page](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [Screenshots](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [Download](https://kraynux.snake-mackarel.ts.net/omega-fire/omega-fire.tar.gz)   
@@ -62,7 +62,7 @@ authentication, log manager (viewing and automation), backup and restore, … on
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
-- **External links:** [Official page](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Screenshots](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Download](https://kraynux.snake-mackarel.ts.net/omega-serv/omega-serv.tar.gz)   
+- **External links:** [Official page](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Screenshots](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Download](https://kraynux.snake-mackarel.ts.net/omega-serv/)   
 - **GitHub links:** [Project folder](https://github.com/kraynux/omega-serv) · [All projects](https://github.com/kraynux?tab=repositories)  
 - **Contact links:** [Mail](mailto:kraynux@proton.me) · [Form](https://kraynux.snake-mackarel.ts.net/contact/)  
 
@@ -77,12 +77,12 @@ authentication, log manager (viewing and automation), backup and restore, … on
 *Omega-Scan*, *Omega-Check*, *Omega-Deep*, *Omega-Fold*, *Omega-Stress*, *Omega-Track*, and *Omega-Fuzz*  
 through a single interface and shared library.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
-- **External links:** [Official page](https://kraynux.snake-mackarel.ts.net/omega-suite/) · [Download](https://kraynux.snake-mackarel.ts.net/omega-suite/omega-suite.tar.gz)  
+- **External links:** [Official page](https://kraynux.snake-mackarel.ts.net/omega-suite/) · [Download](https://kraynux.snake-mackarel.ts.net/omega-suite/)  
 - Screenshots → [omega-scan](https://kraynux.snake-mackarel.ts.net/omega-scan/screenshots/) · [omega-check](https://kraynux.snake-mackarel.ts.net/omega-check/screenshots/) · [omega-deep](https://kraynux.snake-mackarel.ts.net/omega-deep/screenshots/) · [omega-fold](https://kraynux.snake-mackarel.ts.net/omega-fold/screenshots/) · [omega-track](https://kraynux.snake-mackarel.ts.net/omega-track/screenshots/) · [omega-fuzz](https://kraynux.snake-mackarel.ts.net/omega-fuzz/screenshots/) · [omega-stress](https://kraynux.snake-mackarel.ts.net/omega-stress/screenshots/)  
 - **GitHub links:** [Project folder](https://github.com/kraynux/omega-suite) · [All projects](https://github.com/kraynux?tab=repositories)  
 - **Contact links:** [Mail](mailto:kraynux@proton.me) · [Form](https://kraynux.snake-mackarel.ts.net/contact/)  

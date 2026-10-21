@@ -85,6 +85,8 @@ via une seule interface et bibliotheque partagé.
 
 ## Tous les projets OMEGA-... :
 
+Chaque projet respecte la procedure de devellopement defini par Kraynux et le suivi global des phases alternant Humain/IA : [PROCESS](https://github.com/kraynux/kraynux/docs/PROCEDURE_DEVELOPPEMENT_OMEGA.md)
+
 ### Sécurité & scanning
 
 - **[omega-suite](https://github.com/kraynux/omega-suite)**  – tous les outils de scan dans une seule interface.

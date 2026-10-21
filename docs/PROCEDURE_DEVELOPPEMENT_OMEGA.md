@@ -8,7 +8,7 @@
 | Date de création | [AAAA-MM-JJ] |
 | Dernière mise à jour | [AAAA-MM-JJ] |
 | Statut global | Brouillon / En cours / Validé / En production |
-| Environnement cible | [Linux / Arch / Debian / Serveur / Poste] |
+| Environnement cible | [Linux / Debian / Serveur / Poste] |
 | Langage principal | [Python / Bash / Lua / Autre] |
 | Dépôt | [URL_OU_CHEMIN] |
 
@@ -202,15 +202,14 @@
 [NOM_DU_PROJET]/
 ├── src/
 │   └── [nom_du_projet]/
-│       	├── app/              Bootstrap et conteneur d'injection de dépendances
-│			├── core/             Capacités, énumérations et exceptions
-│			├── domain/           Logique métier pure
-│			├── application/      Orchestration : commands et queries
-│			├── infrastructure/   Backends, stockage, exports, logs et sondes système...
-│			├── ports/            Contrats Protocol/ABC
-│			├── interfaces/       interfaces/tui/ (Textual, par défaut) + interfaces/cli/ (Rich, --legacy-cli)
-│			├── plugins/          Extensions intégrées...
-│			└── shared/			  Parsing, réseau, formatage et utilitaires transverses...
+│       ├── __init__.py
+│       ├── config.py
+│       ├── exceptions.py
+│       ├── logging.py
+│       ├── models/
+│       ├── core/
+│       ├── services/
+│       └── cli/
 ├── tests/
 │   ├── unit/
 │   └── integration/

@@ -15,12 +15,10 @@
 Все приложения создаются в соответствии с принципами [CLEAN-ARCHITECTURE-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/CLEAN_ARCHITECTURE_OMEGA.ru.md).  
 Каждый проект следует процедуре [PROCESS-DEVELLOPEMENT-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/PROCEDURE_DEVELOPPEMENT_OMEGA.ru.md) и общему контролю этапов с чередованием «Человек / ИИ», определенному [Kraynux](https://kraynux.snake-mackarel.ts.net).  
 
-**Языки:**  
-[Français](README.md) · [English](README.en.md) · [Español](README.es.md) · [Русский](README.ru.md) · [中文](README.zh-CN.md)
+**Языки:** [Français](README.md) · [English](README.en.md) · [Español](README.es.md) · [Русский](README.ru.md) · [中文](README.zh-CN.md)
 
 ### ОСНОВНЫЕ ПРОЕКТЫ **OMEGA-**:  
-[FIRE](https://github.com/kraynux/omega-fire) · [SERV](https://github.com/kraynux/omega-serv) · [SUITE](https://github.com/kraynux/omega-suite) · [SCAN](https://github.com/kraynux/omega-scan) · [CHECK](https://github.com/kraynux/omega-check) · [DEEP](https://github.com/kraynux/omega-deep) ·   
-[FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz) · [LOG](https://github.com/kraynux/omega-log) · [WAF](https://github.com/kraynux/omega-waf) · [JAIL](https://github.com/kraynux/omega-jail)  
+[FIRE](https://github.com/kraynux/omega-fire) · [SERV](https://github.com/kraynux/omega-serv) · [SUITE](https://github.com/kraynux/omega-suite) · [SCAN](https://github.com/kraynux/omega-scan) · [CHECK](https://github.com/kraynux/omega-check) · [DEEP](https://github.com/kraynux/omega-deep) · [FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz) · [LOG](https://github.com/kraynux/omega-log) · [WAF](https://github.com/kraynux/omega-waf) · [JAIL](https://github.com/kraynux/omega-jail)  
 
 ---
 

@@ -16,7 +16,7 @@
 </table>
 
 Toutes les applications sont construite sous le principe de la **CLEAN ARCHITECTURE**   
-Chaque projet respecte la procedure de devellopement defini par Kraynux et le suivi global des phases alternant Humain/IA : [PROCESS](/docs/PROCEDURE_DEVELOPPEMENT_OMEGA.md)
+Chaque projet respecte la procedure de devellopement defini par Kraynux et le suivi global des phases alternant Humain/IA : [PROCESS](PROCEDURE_DEVELOPPEMENT_OMEGA.md)
 
 
 ### PROJETS PRINCIPAUX **OMEGA-** :

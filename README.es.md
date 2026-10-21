@@ -89,7 +89,8 @@ mediante una única interfaz y una biblioteca compartida.
 
 ---
 
-## Todos los proyectos OMEGA-...: ### Seguridad y escaneo
+## Todos los proyectos OMEGA-...: 
+### Seguridad y escaneo
 
 - **[omega-suite](https://github.com/kraynux/omega-suite)** – todas las herramientas de escaneo en una sola interfaz.  
 - **[omega-scan](https://github.com/kraynux/omega-scan)** – Escáner de configuraciones de servidor.  

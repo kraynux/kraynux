@@ -57,9 +57,9 @@ Each project follows the [PROCESS-DEVELLOPEMENT-OMEGA](https://github.com/kraynu
 Multi-instance, integrated WAF and Active Defense, preconfigured profiles, reverse proxy, TLS, PHP, aliases, rewrites, redirects,  
 authentication, log manager (viewing and automation), backup and restore, … one single product for a complete, secure, and easy-to-administer hosting infrastructure.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)  
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
 
 - **External links:** [Official page](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Screenshots](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Download](https://kraynux.snake-mackarel.ts.net/omega-serv/)   
@@ -89,7 +89,8 @@ through a single interface and shared library.
 
 ---
 
-## All OMEGA-... projects: ### Security & scanning
+## All OMEGA-... projects: 
+### Security & scanning
 
 - **[omega-suite](https://github.com/kraynux/omega-suite)** – all scanning tools in a single interface.  
 - **[omega-scan](https://github.com/kraynux/omega-scan)** – Server configuration scanner.  

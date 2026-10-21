@@ -15,8 +15,8 @@
 [kraynux.snake-mackarel](https://kraynux.snake-mackarel.ts.net)
 </table>
 
-Toutes les applications sont construite sous le principe de la **CLEAN ARCHITECTURE**   
-Chaque projet respecte la procedure de devellopement defini par Kraynux et le suivi global des phases alternant Humain/IA : [PROCESS](PROCEDURE_DEVELOPPEMENT_OMEGA.md)
+Toutes les applications sont construite sous le principe de la [CLEAN-ARCHITECTURE](CLEAN_ARCHITECTURE_OMEGA.md)   
+Chaque projet respecte le [PROCESS-DEVELLOPEMENT](PROCEDURE_DEVELOPPEMENT_OMEGA.md) defini par Kraynux et le suivi des phases alternant Humain/IA. 
 
 
 ### PROJETS PRINCIPAUX **OMEGA-** :

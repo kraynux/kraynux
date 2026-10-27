@@ -1,5 +1,8 @@
 # Architecture du projet — Clean Architecture
 
+**Langues :**
+<img src="https://flagcdn.com/w20/fr.png" alt="France" style="height:14px;"> [Français](CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/gb.png" alt="English" style="height:14px;"> [English](translation/en/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/es.png" alt="Español" style="height:14px;"> [Español](translation/es/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/br.png" alt="Português (Brasil)" style="height:14px;"> [Português (Brasil)](translation/pt-BR/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/it.png" alt="Italiano" style="height:14px;"> [Italiano](translation/it/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/de.png" alt="Deutsch" style="height:14px;"> [Deutsch](translation/de/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/nl.png" alt="Nederlands" style="height:14px;"> [Nederlands](translation/nl/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/pl.png" alt="Polski" style="height:14px;"> [Polski](translation/pl/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/ru.png" alt="Русский" style="height:14px;"> [Русский](translation/ru/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/cn.png" alt="中文" style="height:14px;"> [中文](translation/zh-CN/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/vn.png" alt="Tiếng Việt" style="height:14px;"> [Tiếng Việt](translation/vi/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/th.png" alt="ไทย" style="height:14px;"> [ไทย](translation/th/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/id.png" alt="Bahasa Indonesia" style="height:14px;"> [Bahasa Indonesia](translation/id/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/jp.png" alt="日本語" style="height:14px;"> [日本語](translation/ja/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/kr.png" alt="한국어" style="height:14px;"> [한국어](translation/ko/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/in.png" alt="हिन्दी" style="height:14px;"> [हिन्दी](translation/hi/CLEAN_ARCHITECTURE_OMEGA.md) · <img src="https://flagcdn.com/w20/ae.png" alt="العربية" style="height:14px;"> [العربية](translation/ar/CLEAN_ARCHITECTURE_OMEGA.md)
+
 Ce document explique comment le projet est organisé, pourquoi cette organisation a été choisie, et ce que contient chaque dossier. Il s’adresse aussi bien à un visiteur qui souhaite comprendre le fonctionnement général qu’à un développeur qui veut contribuer ou maintenir l’application.
 
 L’application suit une **Clean Architecture** : le cœur du logiciel est isolé des détails techniques, des interfaces utilisateur et des dépendances externes. Cette séparation rend le projet plus lisible, plus testable, plus maintenable et plus facile à faire évoluer.
@@ -187,7 +190,7 @@ Le dossier `domain/` est le **cœur du projet**.
 
 Il contient la logique métier pure : les règles, les concepts et les calculs qui définissent réellement ce que fait l’application.
 
-Il peut contenir :Document 1 non enregistré
+Il peut contenir :
 
 - des entités ;
 - des value objects ;
@@ -256,7 +259,7 @@ Il contient :
 |---|---|---|
 | Command | Exécuter une action | Oui |
 | Query | Lire ou calculer une information | Non |
-Document 1 non enregistré
+
 Exemples :
 
 | Command | Query |
@@ -302,7 +305,7 @@ Un port décrit **ce dont l’application a besoin**, sans imposer la manière d
 
 Il contient généralement :
 
-- des `Protocol` ;Document 1 non enregistré
+- des `Protocol` ;
 - des classes abstraites `ABC` ;
 - des interfaces de dépôt ;
 - des interfaces d’export ;
@@ -343,7 +346,7 @@ Il ne dit pas :
 
 - si l’export se fera en Markdown ;
 - si l’export se fera en JSON ;
-- si le fichier sera écritDocument 1 non enregistré localement ;
+- si le fichier sera écrit localement ;
 - si l’export sera envoyé sur le réseau.
 
 Ces choix appartiennent à `infrastructure/`.

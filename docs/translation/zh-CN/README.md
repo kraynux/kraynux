@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="center" width="150">
-      <img src="docs/assets/omega.png" width="256" alt="Omega-Kraynux" />
+      <img src="../../assets/omega.png" width="256" alt="Omega-Kraynux" />
     </td>
     <td valign="center"><br>
       <strong>Kraynux</strong><br /><br>
@@ -12,10 +12,11 @@
         </tr>
 </table>
 
-所有应用程序均遵循 [CLEAN-ARCHITECTURE-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/CLEAN_ARCHITECTURE_OMEGA.zh-CN.md) 原则构建。  
-每个项目都遵循 [PROCESS-DEVELLOPEMENT-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/PROCEDURE_DEVELOPPEMENT_OMEGA.zh-CN.md)，以及由 [Kraynux](https://kraynux.snake-mackarel.ts.net) 定义的“人工 / AI”交替的全局阶段跟踪流程。  
+所有应用程序均遵循 [CLEAN-ARCHITECTURE-OMEGA](CLEAN_ARCHITECTURE_OMEGA.md) 原则构建。  
+每个项目都遵循 [PROCESS-DEVELLOPEMENT-OMEGA](PROCEDURE_DEVELOPPEMENT_OMEGA.md)，以及由 [Kraynux](https://kraynux.snake-mackarel.ts.net) 定义的“人工 / AI”交替的全局阶段跟踪流程。  
 
-**语言：** [Français](README.md) · [English](README.en.md) · [Español](README.es.md) · [Русский](README.ru.md) · [中文](README.zh-CN.md)
+**语言：**
+<img src="https://flagcdn.com/w20/fr.png" alt="France" style="height:14px;"> [Français](../../../README.md) · <img src="https://flagcdn.com/w20/gb.png" alt="English" style="height:14px;"> [English](../en/README.md) · <img src="https://flagcdn.com/w20/es.png" alt="Español" style="height:14px;"> [Español](../es/README.md) · <img src="https://flagcdn.com/w20/br.png" alt="Português (Brasil)" style="height:14px;"> [Português (Brasil)](../pt-BR/README.md) · <img src="https://flagcdn.com/w20/it.png" alt="Italiano" style="height:14px;"> [Italiano](../it/README.md) · <img src="https://flagcdn.com/w20/de.png" alt="Deutsch" style="height:14px;"> [Deutsch](../de/README.md) · <img src="https://flagcdn.com/w20/nl.png" alt="Nederlands" style="height:14px;"> [Nederlands](../nl/README.md) · <img src="https://flagcdn.com/w20/pl.png" alt="Polski" style="height:14px;"> [Polski](../pl/README.md) · <img src="https://flagcdn.com/w20/ru.png" alt="Русский" style="height:14px;"> [Русский](../ru/README.md) · <img src="https://flagcdn.com/w20/cn.png" alt="中文" style="height:14px;"> [中文](README.md) · <img src="https://flagcdn.com/w20/vn.png" alt="Tiếng Việt" style="height:14px;"> [Tiếng Việt](../vi/README.md) · <img src="https://flagcdn.com/w20/th.png" alt="ไทย" style="height:14px;"> [ไทย](../th/README.md) · <img src="https://flagcdn.com/w20/id.png" alt="Bahasa Indonesia" style="height:14px;"> [Bahasa Indonesia](../id/README.md) · <img src="https://flagcdn.com/w20/jp.png" alt="日本語" style="height:14px;"> [日本語](../ja/README.md) · <img src="https://flagcdn.com/w20/kr.png" alt="한국어" style="height:14px;"> [한국어](../ko/README.md) · <img src="https://flagcdn.com/w20/in.png" alt="हिन्दी" style="height:14px;"> [हिन्दी](../hi/README.md) · <img src="https://flagcdn.com/w20/ae.png" alt="العربية" style="height:14px;"> [العربية](../ar/README.md)
 
 ### 主要 **OMEGA-** 项目：  
 [FIRE](https://github.com/kraynux/omega-fire) · [SERV](https://github.com/kraynux/omega-serv) · [SUITE](https://github.com/kraynux/omega-suite) · [SCAN](https://github.com/kraynux/omega-scan) · [CHECK](https://github.com/kraynux/omega-check) · [DEEP](https://github.com/kraynux/omega-deep) · [FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz) · [LOG](https://github.com/kraynux/omega-log) · [WAF](https://github.com/kraynux/omega-waf) · [JAIL](https://github.com/kraynux/omega-jail)  
@@ -29,12 +30,12 @@
 
 ### [OMEGA-FIRE](https://github.com/kraynux/omega-fire)  
 <div align="center">
-  <img src="docs/assets/omega-fire.png" alt="Omega-Fire" width="384">
+  <img src="../../assets/omega-fire.png" alt="Omega-Fire" width="384">
 </div><br>
 
 **OMEGA-FIRE** 是一款“**LINUX FIREWALL SUITE**”TUI 应用程序，提供统一界面，用于管理 Linux 防火墙、Fail2Ban、被封禁地址、网络规则、日志和系统统计信息。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
@@ -47,7 +48,7 @@
 
 ### [OMEGA-SERV](https://github.com/kraynux/omega-serv)  
 <div align="center">
-  <img src="docs/assets/omega-serv.png" alt="Omega-Serv" width="384">
+  <img src="../../assets/omega-serv.png" alt="Omega-Serv" width="384">
 </div><br>
 
 **OMEGA-SERV** 是一款功能完整、强大且默认经过加固的“**LINUX SERVER SUITE**”TUI 应用程序。
@@ -55,7 +56,7 @@
 支持多实例、集成 WAF 与主动防御、预配置档案、反向代理、TLS、PHP、别名、重写、重定向、  
 身份验证、日志管理器（查看与自动化）、备份与恢复……一个产品即可构建完整、安全且易于管理的托管基础设施。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
@@ -68,14 +69,14 @@
 
 ### [OMEGA-SUITE](https://github.com/kraynux/omega-suite)  
 <div align="center">
-  <img src="docs/assets/omega-suite.png" alt="Omega-Suite" width="384">
+  <img src="../../assets/omega-suite.png" alt="Omega-Suite" width="384">
 </div><br>
 
 **OMEGA-SUITE** 是一款功能完整的“**LINUX SCANNER SUITE**”TUI 应用程序，它将  
 *Omega-Scan*、*Omega-Check*、*Omega-Deep*、*Omega-Fold*、*Omega-Stress*、*Omega-Track* 和 *Omega-Fuzz*  
 整合到同一个界面和共享库中。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  

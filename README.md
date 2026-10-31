@@ -35,10 +35,11 @@ Chaque projet respecte le [PROCESS-DEVELLOPEMENT-OMEGA](https://github.com/krayn
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
 
-- **Liens externes :** [Page Officiel](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [Screenshots](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [Telecharger](https://kraynux.snake-mackarel.ts.net/omega-fire/) 
+- **Liens externes :** [Page Officiel](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [Screenshots](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [Telecharger](https://kraynux.snake-mackarel.ts.net/omega-fire/download/) 
 - **Liens Github :** [Dossier du Projet](https://github.com/kraynux/omega-fire) · [Tous les Projets](https://github.com/kraynux?tab=repositories)
 - **Liens Contact :** [Mail](mailto:kraynux@proton.me) · [Formulaire](https://kraynux.snake-mackarel.ts.net/contact/)
 ---
@@ -55,10 +56,14 @@ authentification, gestionnaire de logs (visualisation et automatisation), sauveg
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Lua](https://img.shields.io/badge/Lua-5.4%2B-2C2D72.svg)](https://www.lua.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)](#3-utilisation)
+[![Textual](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)  
 
-- **Liens externes :** [Page Officiel](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Screenshots](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Telecharger](https://kraynux.snake-mackarel.ts.net/omega-serv/) 
+- **Liens externes :** [Page Officiel](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Screenshots](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Telecharger](https://kraynux.snake-mackarel.ts.net/omega-serv/download/) 
 - **Liens Github :** [Dossier du Projet](https://github.com/kraynux/omega-serv) · [Tous les Projets](https://github.com/kraynux?tab=repositories)
 - **Liens Contact :** [Mail](mailto:kraynux@proton.me) · [Formulaire](https://kraynux.snake-mackarel.ts.net/contact/)
 ---
@@ -74,10 +79,11 @@ via une seule interface et bibliotheque partagé.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
 
-- **Liens externes :** [Page Officiel](https://kraynux.snake-mackarel.ts.net/omega-suite/)  · [Telecharger](https://kraynux.snake-mackarel.ts.net/)
+- **Liens externes :** [Page Officiel](https://kraynux.snake-mackarel.ts.net/omega-suite/)  · [Telecharger](https://kraynux.snake-mackarel.ts.net/download/)
 - Screenshots → [omega-scan](https://kraynux.snake-mackarel.ts.net/omega-scan/screenshots/) · [omega-check](https://kraynux.snake-mackarel.ts.net/omega-check/screenshots/) · [omega-deep](https://kraynux.snake-mackarel.ts.net/omega-deep/screenshots/) · [omega-fold](https://kraynux.snake-mackarel.ts.net/omega-fold/screenshots/) · [omega-track](https://kraynux.snake-mackarel.ts.net/omega-track/screenshots/) · [omega-fuzz](https://kraynux.snake-mackarel.ts.net/omega-fuzz/screenshots/) · [omega-stress](https://kraynux.snake-mackarel.ts.net/omega-stress/screenshots/)
 - **Liens Github :** [Dossier du Projet](https://github.com/kraynux/omega-suite) · [Tous les Projets](https://github.com/kraynux?tab=repositories)
 - **Liens Contact :** [Mail](mailto:kraynux@proton.me) · [Formulaire](https://kraynux.snake-mackarel.ts.net/contact/)

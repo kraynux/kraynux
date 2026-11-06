@@ -53,12 +53,17 @@
 หลายอินสแตนซ์, WAF และการป้องกันเชิงรุกในตัว, โปรไฟล์ที่ตั้งค่าไว้ล่วงหน้า, reverse proxy, TLS, PHP, alias, การเขียนใหม่, การเปลี่ยนเส้นทาง,
 การยืนยันตัวตน, ตัวจัดการล็อก (การดูและระบบอัตโนมัติ), การสำรองและกู้คืน,... ผลิตภัณฑ์เดียวสำหรับโครงสร้างพื้นฐานการโฮสต์ที่ครบถ้วน ปลอดภัย และดูแลง่าย
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-20-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Lua](https://img.shields.io/badge/Lua-5.4%2B-2C2D72.svg)](https://www.lua.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Textual](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)  
 
-- **ลิงก์ภายนอก:** [หน้าอย่างเป็นทางการ](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [ภาพหน้าจอ](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [ดาวน์โหลด](https://kraynux.snake-mackarel.ts.net/omega-serv/) 
+- **ลิงก์ภายนอก:** [หน้าอย่างเป็นทางการ](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [ภาพหน้าจอ](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [ดาวน์โหลด](https://kraynux.snake-mackarel.ts.net/omega-serv/download/) 
 - **ลิงก์ GitHub:** [โฟลเดอร์โปรเจกต์](https://github.com/kraynux/omega-serv) · [โปรเจกต์ทั้งหมด](https://github.com/kraynux?tab=repositories)
 - **ลิงก์ติดต่อ:** [Mail](mailto:kraynux@proton.me) · [แบบฟอร์ม](https://kraynux.snake-mackarel.ts.net/contact/)
 ---

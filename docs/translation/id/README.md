@@ -53,12 +53,17 @@ Setiap proyek mengikuti [PROCESS-DEVELLOPEMENT-OMEGA](PROCEDURE_DEVELOPPEMENT_OM
 Multi-instans, WAF dan Pertahanan Aktif terintegrasi, profil siap pakai, reverse proxy, TLS, PHP, alias, penulisan ulang, pengalihan,
 autentikasi, pengelola log (tampilan dan otomatisasi), pencadangan dan pemulihan,... satu produk untuk infrastruktur hosting yang lengkap, aman, dan mudah dikelola.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-20-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Lua](https://img.shields.io/badge/Lua-5.4%2B-2C2D72.svg)](https://www.lua.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Textual](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)  
 
-- **Tautan eksternal:** [Halaman resmi](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Tangkapan layar](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Unduh](https://kraynux.snake-mackarel.ts.net/omega-serv/) 
+- **Tautan eksternal:** [Halaman resmi](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Tangkapan layar](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Unduh](https://kraynux.snake-mackarel.ts.net/omega-serv/download/) 
 - **Tautan GitHub:** [Folder proyek](https://github.com/kraynux/omega-serv) · [Semua proyek](https://github.com/kraynux?tab=repositories)
 - **Tautan kontak:** [Mail](mailto:kraynux@proton.me) · [Formulir](https://kraynux.snake-mackarel.ts.net/contact/)
 ---

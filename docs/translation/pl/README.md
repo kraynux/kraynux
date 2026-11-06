@@ -53,12 +53,17 @@ Każdy projekt przestrzega [PROCESS-DEVELLOPEMENT-OMEGA](PROCEDURE_DEVELOPPEMENT
 Wiele instancji, wbudowany WAF i Aktywna Obrona, wstępnie skonfigurowane profile, reverse proxy, TLS, PHP, aliasy, przepisywanie, przekierowania,
 uwierzytelnianie, menedżer logów (podgląd i automatyzacja), kopia zapasowa i przywracanie,... jeden produkt dla kompletnej, bezpiecznej i łatwej w administracji infrastruktury hostingowej.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-20-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Lua](https://img.shields.io/badge/Lua-5.4%2B-2C2D72.svg)](https://www.lua.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Textual](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)  
 
-- **Linki zewnętrzne:** [Oficjalna strona](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Zrzuty ekranu](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Pobierz](https://kraynux.snake-mackarel.ts.net/omega-serv/) 
+- **Linki zewnętrzne:** [Oficjalna strona](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [Zrzuty ekranu](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [Pobierz](https://kraynux.snake-mackarel.ts.net/omega-serv/download/) 
 - **Linki GitHub:** [Katalog projektu](https://github.com/kraynux/omega-serv) · [Wszystkie projekty](https://github.com/kraynux?tab=repositories)
 - **Linki kontaktowe:** [Mail](mailto:kraynux@proton.me) · [Formularz](https://kraynux.snake-mackarel.ts.net/contact/)
 ---

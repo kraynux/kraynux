@@ -56,12 +56,17 @@
 支持多实例、集成 WAF 与主动防御、预配置档案、反向代理、TLS、PHP、别名、重写、重定向、  
 身份验证、日志管理器（查看与自动化）、备份与恢复……一个产品即可构建完整、安全且易于管理的托管基础设施。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-20-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Lua](https://img.shields.io/badge/Lua-5.4%2B-2C2D72.svg)](https://www.lua.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Textual](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)  
 
-- **外部链接：** [官方页面](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [截图](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [下载](https://kraynux.snake-mackarel.ts.net/omega-serv/omega-serv.tar.gz)   
+- **外部链接：** [官方页面](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [截图](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [下载](https://kraynux.snake-mackarel.ts.net/omega-serv/download/)   
 - **GitHub 链接：** [项目目录](https://github.com/kraynux/omega-serv) · [所有项目](https://github.com/kraynux?tab=repositories)  
 - **联系方式：** [邮件](mailto:kraynux@proton.me) · [表单](https://kraynux.snake-mackarel.ts.net/contact/)  
 

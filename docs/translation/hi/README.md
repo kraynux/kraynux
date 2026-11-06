@@ -53,12 +53,17 @@
 मल्टी-इंस्टेंस, अंतर्निहित WAF और सक्रिय रक्षा, पूर्व-कॉन्फ़िगर प्रोफ़ाइल, रिवर्स प्रॉक्सी, TLS, PHP, alias, rewrite, redirect,
 प्रमाणीकरण, लॉग प्रबंधक (देखना और स्वचालन), बैकअप और पुनर्स्थापना,... पूर्ण, सुरक्षित और आसानी से प्रबंधित होने वाले होस्टिंग इंफ्रास्ट्रक्चर के लिए एक ही उत्पाद।
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-20-00599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Lua](https://img.shields.io/badge/Lua-5.4%2B-2C2D72.svg)](https://www.lua.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Textual](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)  
 
-- **बाहरी लिंक:** [आधिकारिक पेज](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [स्क्रीनशॉट](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [डाउनलोड](https://kraynux.snake-mackarel.ts.net/omega-serv/) 
+- **बाहरी लिंक:** [आधिकारिक पेज](https://kraynux.snake-mackarel.ts.net/omega-serv/) · [स्क्रीनशॉट](https://kraynux.snake-mackarel.ts.net/omega-serv/screenshots) · [डाउनलोड](https://kraynux.snake-mackarel.ts.net/omega-serv/download/) 
 - **GitHub लिंक:** [प्रोजेक्ट फ़ोल्डर](https://github.com/kraynux/omega-serv) · [सभी प्रोजेक्ट](https://github.com/kraynux?tab=repositories)
 - **संपर्क लिंक:** [Mail](mailto:kraynux@proton.me) · [फ़ॉर्म](https://kraynux.snake-mackarel.ts.net/contact/)
 ---

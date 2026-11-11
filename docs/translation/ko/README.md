@@ -7,45 +7,54 @@
       <strong>Kraynux</strong><br /><br>
       제어, 관리, 스캔, 로그 분석, 호스팅,
       자동화를 위한 도구와 애플리케이션을 개발하며, 신뢰할 수 있고 방어적인 웹 인프라를 지향합니다.<br><br>
-      Stack: Linux, Arch, Python, Jinja, Shell, Bash, Lua, Html, Markdown.
+      Stack: Linux, Arch, Python, C++, Shell, Bash, Lua, JavaScript, HTML, Markdown.
       </td>
         </tr>
 </table>
 
-모든 애플리케이션은 [CLEAN-ARCHITECTURE-OMEGA](CLEAN_ARCHITECTURE_OMEGA.md) 원칙에 따라 만들어졌습니다.   
-각 프로젝트는 [PROCESS-DEVELLOPEMENT-OMEGA](PROCEDURE_DEVELOPPEMENT_OMEGA.md)와, [Kraynux](https://kraynux.snake-mackarel.ts.net)가 정의한 사람/AI가 번갈아 맡는 단계별 전체 관리를 따릅니다.   
+모든 애플리케이션은 [CLEAN-ARCHITECTURE-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/translation/ko/CLEAN_ARCHITECTURE_OMEGA.md) 원칙에 따라 만들어졌습니다.   
+각 프로젝트는 [PROCESS-DEVELOPPEMENT-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/translation/ko/PROCEDURE_DEVELOPPEMENT_OMEGA.md)와, [Kraynux](https://kraynux.snake-mackarel.ts.net)가 정의한 사람/AI가 번갈아 맡는 단계별 전체 관리를 따릅니다.   
 
+모든 OMEGA- 애플리케이션은 **17개 언어**로 제공됩니다(인터페이스, 문서, 내보내기, 방문자 페이지).  
 **언어:**
 <img src="https://flagcdn.com/w20/fr.png" alt="France" style="height:14px;"> [Français](../../../README.md) · <img src="https://flagcdn.com/w20/gb.png" alt="English" style="height:14px;"> [English](../en/README.md) · <img src="https://flagcdn.com/w20/es.png" alt="Español" style="height:14px;"> [Español](../es/README.md) · <img src="https://flagcdn.com/w20/br.png" alt="Português (Brasil)" style="height:14px;"> [Português (Brasil)](../pt-BR/README.md) · <img src="https://flagcdn.com/w20/it.png" alt="Italiano" style="height:14px;"> [Italiano](../it/README.md) · <img src="https://flagcdn.com/w20/de.png" alt="Deutsch" style="height:14px;"> [Deutsch](../de/README.md) · <img src="https://flagcdn.com/w20/nl.png" alt="Nederlands" style="height:14px;"> [Nederlands](../nl/README.md) · <img src="https://flagcdn.com/w20/pl.png" alt="Polski" style="height:14px;"> [Polski](../pl/README.md) · <img src="https://flagcdn.com/w20/ru.png" alt="Русский" style="height:14px;"> [Русский](../ru/README.md) · <img src="https://flagcdn.com/w20/cn.png" alt="中文" style="height:14px;"> [中文](../zh-CN/README.md) · <img src="https://flagcdn.com/w20/vn.png" alt="Tiếng Việt" style="height:14px;"> [Tiếng Việt](../vi/README.md) · <img src="https://flagcdn.com/w20/th.png" alt="ไทย" style="height:14px;"> [ไทย](../th/README.md) · <img src="https://flagcdn.com/w20/id.png" alt="Bahasa Indonesia" style="height:14px;"> [Bahasa Indonesia](../id/README.md) · <img src="https://flagcdn.com/w20/jp.png" alt="日本語" style="height:14px;"> [日本語](../ja/README.md) · <img src="https://flagcdn.com/w20/kr.png" alt="한국어" style="height:14px;"> [한국어](README.md) · <img src="https://flagcdn.com/w20/in.png" alt="हिन्दी" style="height:14px;"> [हिन्दी](../hi/README.md) · <img src="https://flagcdn.com/w20/ae.png" alt="العربية" style="height:14px;"> [العربية](../ar/README.md)
 
+<div align="center">
+  <img src="../../assets/omega-banner.png" alt="Omega-Banner">
+</div><br>  
+
 ### 주요 프로젝트 **OMEGA-**:
 [FIRE](https://github.com/kraynux/omega-fire) · [SERV](https://github.com/kraynux/omega-serv) · [SUITE](https://github.com/kraynux/omega-suite) · [SCAN](https://github.com/kraynux/omega-scan) · [CHECK](https://github.com/kraynux/omega-check) · [DEEP](https://github.com/kraynux/omega-deep) · 
-[FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz) · [LOG](https://github.com/kraynux/omega-log) · [WAF](https://github.com/kraynux/omega-waf) · [JAIL](https://github.com/kraynux/omega-jail)
+[FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz) · [LOG](https://github.com/kraynux/omega-log) · [WAF](https://github.com/kraynux/omega-waf) · [JAIL](https://github.com/kraynux/omega-jail) · [CONNECT](https://github.com/kraynux/omega-connect)
+
 ---
-### 파트너 프로젝트 **ORTI-**:
-[WALL](https://github.com/ortipik/orti-wall) · [FILE](https://github.com/ortipik/orti-file) · [LOGS](https://github.com/ortipik/orti-logs)   
+
+파트너 프로젝트 **ORTI-**: [WALL](https://github.com/ortipik/orti-wall) · [FILE](https://github.com/ortipik/orti-file) · [LOGS](https://github.com/ortipik/orti-logs)   
 
 ---
 ### [OMEGA-FIRE](https://github.com/kraynux/omega-fire)
 <div align="center">
-  <img src="../../assets/omega-fire.png" alt="Omega-Fire" width="384">
+  <img src="../../assets/omega-fire.png" alt="Omega-Fire" width="512">
 </div><br>
 
 **OMEGA-FIRE**는 TUI 기반 "**LINUX FIREWALL SUITE**" 애플리케이션으로, Linux 방화벽, Fail2Ban, 차단된 주소, 네트워크 규칙, 로그, 시스템 통계를 하나의 인터페이스로 관리할 수 있습니다.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Textual](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 
-- **외부 링크:** [공식 페이지](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [스크린샷](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [다운로드](https://kraynux.snake-mackarel.ts.net/omega-fire/) 
+- **외부 링크:** [공식 페이지](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [스크린샷](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [다운로드](https://kraynux.snake-mackarel.ts.net/omega-fire/download/) 
 - **GitHub 링크:** [프로젝트 폴더](https://github.com/kraynux/omega-fire) · [모든 프로젝트](https://github.com/kraynux?tab=repositories)
 - **연락처 링크:** [Mail](mailto:kraynux@proton.me) · [문의 양식](https://kraynux.snake-mackarel.ts.net/contact/)
 ---
 
 ### [OMEGA-SERV](https://github.com/kraynux/omega-serv)
 <div align="center">
-  <img src="../../assets/omega-serv.png" alt="Omega-Serv" width="384">
+  <img src="../../assets/omega-serv.png" alt="Omega-Serv" width="512">
 </div><br>
 
 **OMEGA-SERV**는 완전하고 강력하며 기본적으로 강화된 TUI 기반 "**LINUX SERVER SUITE**" 애플리케이션입니다.
@@ -59,7 +68,7 @@
 [![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 ![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
-[![Textual](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
+[![Interface](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)  
 
@@ -70,19 +79,23 @@
 
 ### [OMEGA-SUITE](https://github.com/kraynux/omega-suite)
 <div align="center">
-  <img src="../../assets/omega-suite.png" alt="Omega-Suite" width="384">
+  <img src="../../assets/omega-suite.png" alt="Omega-Suite" width="512">
 </div><br>
 
 **OMEGA-SUITE**는 완전한 TUI 기반 "**LINUX SCANNER SUITE**" 애플리케이션으로, 다음을 모았습니다:   
 *Omega-Scan*, *Omega-Check*, *Omega-Deep*, *Omega-Fold*, *Omega-Stress*, *Omega-Track*, *Omega-fuzz*  
 를 하나의 인터페이스와 공유 라이브러리로 제공합니다.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
 
-- **외부 링크:** [공식 페이지](https://kraynux.snake-mackarel.ts.net/omega-suite/)  · [다운로드](https://kraynux.snake-mackarel.ts.net/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
+
+- **외부 링크:** [공식 페이지](https://kraynux.snake-mackarel.ts.net/omega-suite/)  · [다운로드](https://kraynux.snake-mackarel.ts.net/omega-suite/download/)
 - 스크린샷 → [omega-scan](https://kraynux.snake-mackarel.ts.net/omega-scan/screenshots/) · [omega-check](https://kraynux.snake-mackarel.ts.net/omega-check/screenshots/) · [omega-deep](https://kraynux.snake-mackarel.ts.net/omega-deep/screenshots/) · [omega-fold](https://kraynux.snake-mackarel.ts.net/omega-fold/screenshots/) · [omega-track](https://kraynux.snake-mackarel.ts.net/omega-track/screenshots/) · [omega-fuzz](https://kraynux.snake-mackarel.ts.net/omega-fuzz/screenshots/) · [omega-stress](https://kraynux.snake-mackarel.ts.net/omega-stress/screenshots/)
 - **GitHub 링크:** [프로젝트 폴더](https://github.com/kraynux/omega-suite) · [모든 프로젝트](https://github.com/kraynux?tab=repositories)
 - **연락처 링크:** [Mail](mailto:kraynux@proton.me) · [문의 양식](https://kraynux.snake-mackarel.ts.net/contact/)
@@ -114,15 +127,15 @@
 
 ### 라이브러리 & 유틸리티
 
+- **[omega-connect](https://github.com/kraynux/omega-connect)** – omega- 도구를 위한 로컬 및 원격 상호 연결 유틸리티.
 - **[omega-lib](https://github.com/kraynux/omega-lib)** – omega- 도구용 Python 라이브러리.
 
 ---
 
 ## Stack / 역량
 
-- **언어:** Python, Bash, Lua, SQL, Html
+- **언어:** Python, C++, Bash, Lua, SQL, HTML, JavaScript, …
 - **시스템:** Linux(Arch, TCP/IP 네트워크)
-- **웹 & 서버:** Lighttpd, vsFTPd, Tailscale, Fail2ban, Nftables
 - **주제:** HTTP 엔진, TLS, 애플리케이션 필터링, 커널
 - **도구:** Git, Docker, Markdown, CLI 분석 도구(grep, awk, jq 등)
 

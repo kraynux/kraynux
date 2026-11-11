@@ -7,45 +7,54 @@
       <strong>Kraynux</strong><br /><br>
       Desenvolvimento de ferramentas e aplicativos de pilotagem, gerenciamento, varredura, análise de logs, hospedagem,
       automação para infraestruturas web confiáveis e defensivas.<br><br>
-      Stack: Linux, Arch, Python, Jinja, Shell, Bash, Lua, Html, Markdown.
+      Stack: Linux, Arch, Python, C++, Shell, Bash, Lua, JavaScript, HTML, Markdown.
       </td>
         </tr>
 </table>
 
-Todos os aplicativos são construídos segundo o princípio da [CLEAN-ARCHITECTURE-OMEGA](CLEAN_ARCHITECTURE_OMEGA.md).   
-Cada projeto segue o [PROCESS-DEVELLOPEMENT-OMEGA](PROCEDURE_DEVELOPPEMENT_OMEGA.md) e o acompanhamento global das fases alternando Humano/IA, definido por [Kraynux](https://kraynux.snake-mackarel.ts.net)   
+Todos os aplicativos são construídos segundo o princípio da [CLEAN-ARCHITECTURE-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/translation/pt-BR/CLEAN_ARCHITECTURE_OMEGA.md).   
+Cada projeto segue o [PROCESS-DEVELOPPEMENT-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/translation/pt-BR/PROCEDURE_DEVELOPPEMENT_OMEGA.md) e o acompanhamento global das fases alternando Humano/IA, definido por [Kraynux](https://kraynux.snake-mackarel.ts.net)   
 
+Todos os aplicativos OMEGA- estão disponíveis em **17 idiomas** (interface, documentação, exportações e páginas para visitantes).  
 **Idiomas:**
 <img src="https://flagcdn.com/w20/fr.png" alt="France" style="height:14px;"> [Français](../../../README.md) · <img src="https://flagcdn.com/w20/gb.png" alt="English" style="height:14px;"> [English](../en/README.md) · <img src="https://flagcdn.com/w20/es.png" alt="Español" style="height:14px;"> [Español](../es/README.md) · <img src="https://flagcdn.com/w20/br.png" alt="Português (Brasil)" style="height:14px;"> [Português (Brasil)](README.md) · <img src="https://flagcdn.com/w20/it.png" alt="Italiano" style="height:14px;"> [Italiano](../it/README.md) · <img src="https://flagcdn.com/w20/de.png" alt="Deutsch" style="height:14px;"> [Deutsch](../de/README.md) · <img src="https://flagcdn.com/w20/nl.png" alt="Nederlands" style="height:14px;"> [Nederlands](../nl/README.md) · <img src="https://flagcdn.com/w20/pl.png" alt="Polski" style="height:14px;"> [Polski](../pl/README.md) · <img src="https://flagcdn.com/w20/ru.png" alt="Русский" style="height:14px;"> [Русский](../ru/README.md) · <img src="https://flagcdn.com/w20/cn.png" alt="中文" style="height:14px;"> [中文](../zh-CN/README.md) · <img src="https://flagcdn.com/w20/vn.png" alt="Tiếng Việt" style="height:14px;"> [Tiếng Việt](../vi/README.md) · <img src="https://flagcdn.com/w20/th.png" alt="ไทย" style="height:14px;"> [ไทย](../th/README.md) · <img src="https://flagcdn.com/w20/id.png" alt="Bahasa Indonesia" style="height:14px;"> [Bahasa Indonesia](../id/README.md) · <img src="https://flagcdn.com/w20/jp.png" alt="日本語" style="height:14px;"> [日本語](../ja/README.md) · <img src="https://flagcdn.com/w20/kr.png" alt="한국어" style="height:14px;"> [한국어](../ko/README.md) · <img src="https://flagcdn.com/w20/in.png" alt="हिन्दी" style="height:14px;"> [हिन्दी](../hi/README.md) · <img src="https://flagcdn.com/w20/ae.png" alt="العربية" style="height:14px;"> [العربية](../ar/README.md)
 
+<div align="center">
+  <img src="../../assets/omega-banner.png" alt="Omega-Banner">
+</div><br>  
+
 ### PROJETOS PRINCIPAIS **OMEGA-**:
 [FIRE](https://github.com/kraynux/omega-fire) · [SERV](https://github.com/kraynux/omega-serv) · [SUITE](https://github.com/kraynux/omega-suite) · [SCAN](https://github.com/kraynux/omega-scan) · [CHECK](https://github.com/kraynux/omega-check) · [DEEP](https://github.com/kraynux/omega-deep) · 
-[FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz) · [LOG](https://github.com/kraynux/omega-log) · [WAF](https://github.com/kraynux/omega-waf) · [JAIL](https://github.com/kraynux/omega-jail)
+[FOLD](https://github.com/kraynux/omega-fold) · [STRESS](https://github.com/kraynux/omega-stress) · [TRACK](https://github.com/kraynux/omega-track) · [FUZZ](https://github.com/kraynux/omega-fuzz) · [LOG](https://github.com/kraynux/omega-log) · [WAF](https://github.com/kraynux/omega-waf) · [JAIL](https://github.com/kraynux/omega-jail) · [CONNECT](https://github.com/kraynux/omega-connect)
+
 ---
-### PROJETOS PARCEIROS **ORTI-**:
-[WALL](https://github.com/ortipik/orti-wall) · [FILE](https://github.com/ortipik/orti-file) · [LOGS](https://github.com/ortipik/orti-logs)   
+
+PROJETOS PARCEIROS **ORTI-**: [WALL](https://github.com/ortipik/orti-wall) · [FILE](https://github.com/ortipik/orti-file) · [LOGS](https://github.com/ortipik/orti-logs)   
 
 ---
 ### [OMEGA-FIRE](https://github.com/kraynux/omega-fire)
 <div align="center">
-  <img src="../../assets/omega-fire.png" alt="Omega-Fire" width="384">
+  <img src="../../assets/omega-fire.png" alt="Omega-Fire" width="512">
 </div><br>
 
 **OMEGA-FIRE** é um aplicativo "**LINUX FIREWALL SUITE**" em TUI que oferece uma interface única para administrar os firewalls Linux, o Fail2Ban, os endereços banidos, as regras de rede, os logs e as estatísticas do sistema.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Textual](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
 
-- **Links externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [Capturas de tela](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [Download](https://kraynux.snake-mackarel.ts.net/omega-fire/) 
+- **Links externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-fire/) · [Capturas de tela](https://kraynux.snake-mackarel.ts.net/omega-fire/screenshots) · [Download](https://kraynux.snake-mackarel.ts.net/omega-fire/download/) 
 - **Links GitHub:** [Pasta do projeto](https://github.com/kraynux/omega-fire) · [Todos os projetos](https://github.com/kraynux?tab=repositories)
 - **Links de contato:** [Mail](mailto:kraynux@proton.me) · [Formulário](https://kraynux.snake-mackarel.ts.net/contact/)
 ---
 
 ### [OMEGA-SERV](https://github.com/kraynux/omega-serv)
 <div align="center">
-  <img src="../../assets/omega-serv.png" alt="Omega-Serv" width="384">
+  <img src="../../assets/omega-serv.png" alt="Omega-Serv" width="512">
 </div><br>
 
 **OMEGA-SERV** é um aplicativo "**LINUX SERVER SUITE**" em TUI completo, poderoso e reforçado por padrão.
@@ -59,7 +68,7 @@ autenticação, gerenciador de logs (visualização e automação), backup e res
 [![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 ![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
-[![Textual](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
+[![Interface](https://img.shields.io/badge/Textual-TUI-5A5AFB.svg)](https://textual.textualize.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)  
 
@@ -70,19 +79,23 @@ autenticação, gerenciador de logs (visualização e automação), backup e res
 
 ### [OMEGA-SUITE](https://github.com/kraynux/omega-suite)
 <div align="center">
-  <img src="../../assets/omega-suite.png" alt="Omega-Suite" width="384">
+  <img src="../../assets/omega-suite.png" alt="Omega-Suite" width="512">
 </div><br>
 
 **OMEGA-SUITE** é um aplicativo "**LINUX SCANNER SUITE**" em TUI completo, que reúne:   
 *Omega-Scan*, *Omega-Check*, *Omega-Deep*, *Omega-Fold*, *Omega-Stress*, *Omega-Track* e *Omega-fuzz*  
 em uma única interface e biblioteca compartilhada.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
-[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
 
-- **Links externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-suite/)  · [Download](https://kraynux.snake-mackarel.ts.net/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-5-E34F26.svg)](https://developer.mozilla.org/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES2020%2B-F7DF1E.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
+![Interface](https://img.shields.io/badge/Interface-CLI%20%2B%20TUI-cyan.svg)
+[![Interface](https://img.shields.io/badge/Interface-Textual%20TUI-cyan.svg)](https://github.com/Textualize/textual)
+[![Platform](https://img.shields.io/badge/Platform-Linux-informational.svg)](https://www.linux.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../../../LICENSE)
+
+- **Links externos:** [Página oficial](https://kraynux.snake-mackarel.ts.net/omega-suite/)  · [Download](https://kraynux.snake-mackarel.ts.net/omega-suite/download/)
 - Capturas de tela → [omega-scan](https://kraynux.snake-mackarel.ts.net/omega-scan/screenshots/) · [omega-check](https://kraynux.snake-mackarel.ts.net/omega-check/screenshots/) · [omega-deep](https://kraynux.snake-mackarel.ts.net/omega-deep/screenshots/) · [omega-fold](https://kraynux.snake-mackarel.ts.net/omega-fold/screenshots/) · [omega-track](https://kraynux.snake-mackarel.ts.net/omega-track/screenshots/) · [omega-fuzz](https://kraynux.snake-mackarel.ts.net/omega-fuzz/screenshots/) · [omega-stress](https://kraynux.snake-mackarel.ts.net/omega-stress/screenshots/)
 - **Links GitHub:** [Pasta do projeto](https://github.com/kraynux/omega-suite) · [Todos os projetos](https://github.com/kraynux?tab=repositories)
 - **Links de contato:** [Mail](mailto:kraynux@proton.me) · [Formulário](https://kraynux.snake-mackarel.ts.net/contact/)
@@ -114,15 +127,15 @@ em uma única interface e biblioteca compartilhada.
 
 ### Bibliotecas e utilitários
 
+- **[omega-connect](https://github.com/kraynux/omega-connect)** – utilitário de interconexão local e remota para as ferramentas omega-.
 - **[omega-lib](https://github.com/kraynux/omega-lib)** – biblioteca Python para as ferramentas omega-.
 
 ---
 
 ## Stack / competências
 
-- **Linguagens:** Python, Bash, Lua, SQL, Html
+- **Linguagens:** Python, C++, Bash, Lua, SQL, HTML, JavaScript, …
 - **Sistemas:** Linux (Arch, redes TCP/IP)
-- **Web e servidores:** Lighttpd, vsFTPd, Tailscale, Fail2ban, Nftables
 - **Temas:** Motor HTTP, TLS, filtragem de aplicação e kernel
 - **Ferramentas:** Git, Docker, Markdown, ferramentas CLI de análise (grep, awk, jq etc.)
 

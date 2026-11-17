@@ -12,8 +12,14 @@
         </tr>
 </table>
 
+Page de présentation  des outils de la gamme **OMEGA** et de l'auteur **Kraynux**
+
+<div align="center">
+  <img src="docs/assets/kraynux.png" alt="Omega-Fire" width="512">
+</div><br>
+
 Toutes les applications sont construites selon le principe de la [CLEAN-ARCHITECTURE-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/CLEAN_ARCHITECTURE_OMEGA.md).   
-Chaque projet respecte le [PROCESS-DEVELOPPEMENT-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/PROCEDURE_DEVELOPPEMENT_OMEGA.md) et le suivi global des phases alternant Humain/IA, défini par [Kraynux](https://kraynux.snake-mackarel.ts.net).   
+Chaque projet respecte le [PROCESS-DEVELOPPEMENT-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/PROCEDURE_DEVELOPPEMENT_OMEGA.md) et le suivi global des phases alternantes, défini par [Kraynux](https://kraynux.snake-mackarel.ts.net).  
 
 Les applications OMEGA- sont toutes disponibles en **17 langues** (interface, documentation, exports et pages visiteurs).  
 **Langues :**

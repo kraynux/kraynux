@@ -15,7 +15,7 @@
 Page de présentation  des outils de la gamme **OMEGA** et de l'auteur **Kraynux**
 
 <div align="center">
-  <img src="docs/assets/kraynux.png" alt="Omega-Fire" width="512">
+  <img src="docs/assets/kraynux.png" alt="Omega-kraynux" width="512">
 </div><br>
 
 Toutes les applications sont construites selon le principe de la [CLEAN-ARCHITECTURE-OMEGA](https://github.com/kraynux/kraynux/blob/main/docs/CLEAN_ARCHITECTURE_OMEGA.md).   

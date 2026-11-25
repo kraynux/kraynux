@@ -123,17 +123,21 @@ via une seule interface et une bibliothèque partagée.
 - **[omega-fuzz](https://github.com/kraynux/omega-fuzz)**  – Scanner de vulnérabilités serveur.
 
 
-### Serveurs & Backends
+### Serveurs, Backends & Firewalls
 
-- **[omega-serv](https://github.com/kraynux/omega-serv)** – Serveur web durci avec firewall et système de défense intégrés.
-- **[omega-fire](https://github.com/kraynux/omega-fire/)** – Gestion firewall, monitoring et logs sous Linux.
+- **[omega-serv](https://github.com/kraynux/omega-serv)** – Serveur web & reverse Proxy durci avec firewall et système de défense intégrés.
 - **[omega-log](https://github.com/kraynux/omega-log)** – Gestionnaire de logs serveur.
-- **[omega-waf](https://github.com/kraynux/omega-waf)** – Moteur WAF (magnet) pour serveur compatible OMEGA-SERV et LIGHTTPD.
+- **[omega-fire](https://github.com/kraynux/omega-fire/)** – Gestion firewalls, Interopérabilité, monitoring et logs sous Linux.
+- **[omega-waf](https://github.com/kraynux/omega-waf)** – Firewall Applicatif, moteur WAF (magnet) pour serveur compatible OMEGA-SERV et LIGHTTPD.
 - **[omega-jail](https://github.com/kraynux/omega-jail)** – Pack de jails Fail2ban compatible et adapté pour OMEGA-: SERV, FIRE et WAF.
+- **[omega-tail](https://github.com/kraynux/omega-tail)** – Gestionnaire TAILSCALE et firewall pour mode FUNNEL.
 
-### Bibliothèques & utilitaires
+### Utilitaires
 
-- **[omega-connect](https://github.com/kraynux/omega-connect)** – Utilitaire d'interconnexion local et distant pour les outils omega-.
+- **[omega-connect](https://github.com/kraynux/omega-connect)** – Utilitaire d'interconnexion et de gestion locale, distante pour les logiciels OMEGA-.
+
+### Bibliothèques
+
 - **[omega-lib](https://github.com/kraynux/omega-lib)** – Bibliothèque Python pour les outils omega-.
 
 ---
